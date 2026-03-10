@@ -42,8 +42,7 @@ Install dependencies:
 
 ```sh
 npm install
-npx sequelize db:migrate
-npm run dev
+
 
 
 
